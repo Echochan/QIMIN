@@ -52,4 +52,10 @@
 ```
 
 ## nested layouts
+layout.js / layout.tsx, export react component
+root layout is not optional 
+need prop children
 
+specialized self layout in own folder
+
+# multiple root layouts
